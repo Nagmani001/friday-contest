@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middleware/authMiddleware.ts","./src/mongoose/models.ts","./src/routes/authRouter.ts","./src/routes/quizRouter.ts","./src/zodSchema/auth.ts"],"version":"5.9.3"}
